@@ -1,1 +1,2 @@
 hello it is the first lab of devops and i am eager to learn a lot of things
+we are learning basic git commands through ubuntu
